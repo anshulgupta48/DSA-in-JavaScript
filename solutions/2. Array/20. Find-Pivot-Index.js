@@ -2,7 +2,7 @@
 
 // <======== Example ========>
 // Input: nums = [1,7,3,6,5,6]
-// Output: 3
+// Output: 3 
 
 // Input: nums = [1,2,3]
 // Output: -1
